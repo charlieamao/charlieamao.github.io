@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-My name is Charlemagne (Charlie) Agravante Amao. I am a full-time software developer for [Price Industries](https://www.priceindustries.com/corporate/about-us) and a part-time M.Sc student in Computer Science at the [Georgia Institute of Technology](https://omscs.gatech.edu), taking courses focused on Machine Learning with Cloud Computing electives.
+I am a full-time software developer for [Price Industries](https://www.priceindustries.com/corporate/about-us) and a part-time M.Sc student in Computer Science at the [Georgia Institute of Technology](https://omscs.gatech.edu), taking courses focused on Machine Learning with Cloud Computing electives.
 
 Previously I had completed a Mechanical Engineering degree with a focus on Robotics and Computer Science, at the [University of Manitoba](https://umanitoba.ca/engineering/mechanical).
 
