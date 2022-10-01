@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2020-02-05 16:11:00-0400
 inline: true
 ---
 
-A simple inline announcement.
+Graduated from the University of Manitoba with a B.Sc in Mechanical Engineering.
