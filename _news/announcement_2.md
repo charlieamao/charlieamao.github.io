@@ -3,6 +3,7 @@ layout: post
 # title: A long announcement with details
 date: 2020-09-23 16:11:00-0400
 inline: true
+sitemap: false
 ---
 
 Started role as Product Designer for Price Industries.
